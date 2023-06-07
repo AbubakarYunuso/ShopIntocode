@@ -1,0 +1,11 @@
+.mainContainer{
+    width: 86%;
+    margin: auto;
+    display: flex;
+}
+.productContainer{
+    display: flex;
+    width: 67%;
+    margin: auto;
+    flex-wrap: wrap;
+}

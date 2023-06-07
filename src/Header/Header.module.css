@@ -1,0 +1,7 @@
+.headerContainer{
+    display: flex;
+    width: 87%;
+    margin: auto;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}

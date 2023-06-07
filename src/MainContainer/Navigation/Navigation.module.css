@@ -1,0 +1,19 @@
+.navigationContainer{
+    display: flex;
+    flex-direction: column;
+    width: 24%;
+}
+.linksNavigation{
+    text-decoration: none;
+    color: black;
+}
+.linkNavigationContainer{
+    padding: 13px 5px;
+    font-size: 18px;
+}
+.middleLinkNavigationContainer{
+    padding: 13px 5px;
+    border-bottom: solid #d1d1d1 2px;
+    border-top: solid #d1d1d1 2px;
+    font-size: 18px;
+}
